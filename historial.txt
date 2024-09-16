@@ -1,0 +1,101 @@
+    1  git clone https://github.com/licha0903/miranda_vagrant.git
+    2  ls
+    3  cd miranda_vagrant/
+    4  ls
+    5  git status
+    6  git commit -m "mi primer commit"
+    7  git config --global user.email lisandromirandamaurizio@gmail.com
+    8  git config --global user.name licha0903
+    9  git commit -m "mi primer commit"
+   10  git push
+   11  exit
+   12  whoami
+   13  pwd
+   14  man man
+   15  man ls
+   16  ls -l
+   17  ls -la
+   18  ls
+   19  cd repogit/
+   20  ls
+   21  ls -la
+   22  cd ..
+   23  ls
+   24  cst README
+   25  cat README
+   26  git clone https://github.com/licha0903/miranda_vagrant.git
+   27  ls
+   28  cd miranda_vagrant/
+   29  ls
+   30  history > historial.txt
+   31  ls
+   32  cat histoorial.txt
+   33  cat historial.txt
+   34  git status
+   35  git add .
+   36  git status
+   37  git commit -m "mi primer commit"
+   38  git comfig --global lisandromirandamaurizio@gmail.com
+   39  cd repogit
+   40  ssh-keygen -t ed25519
+   41  ls -la
+   42  cd .shh
+   43  cd.ssh
+   44  cd .ssh
+   45  cd repogit
+   46  ssh -keygen -t ed25519
+   47  ls -la
+   48  cd..
+   49  cdd ..
+   50  ssh-keygen -t ed25519
+   51  cd repogit
+   52  ssh -ketgen -t ed25519
+   53  ssh-keygen -t ed25519
+   54  ls -la
+   55  cat id_ed25519.pub
+   56  cd .ssh
+   57  ls
+   58  clear
+   59  cat .shh
+   60  ssh-keygen -t ed25519
+   61  cd .ssh
+   62  ls
+   63  cat id_ed25519.pub
+   64  clip ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEpsgEhRnLsFrdh9krMp19YtN4yvNYw43/uRXA8Ypw11 vagrant@VMPruebas
+   65  ls
+   66  cd repogit
+   67  cd ..
+   68  ls
+   69  cd repogit
+   70  ls
+   71  git clone git@github.com:upszot/UTN-FRA_SO_onBording.git
+   72  ls
+   73  git clone git@github.com:upszot/UTN-FRA_SO_onBording.git
+   74  ls -a
+   75  cd /
+   76  git init
+   77  git remote add origin <your-repo-url>
+   78  gitchekout main -f
+   79  history
+   80  history > history.txt
+   81  clear
+   82  cd repogit
+   83  ls
+   84  cd repogit
+   85  .ssh cd ...
+   86  cd ..
+   87  cd repogit
+   88  clear
+   89  ssh
+   90  .ssh
+   91  clear
+   92  ls
+   93  cd repogit
+   94  ls
+   95  git clone git@github.com:upszot/UTN-FRA_SO_onBording.git
+   96  git clone git@github.com:licha0903/miranda_vagrant.git
+   97  ls
+   98  cd miranda_vagrant/
+   99  ls
+  100  history 
+  101  history > historial.txt
